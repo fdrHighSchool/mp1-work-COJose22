@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name:  Olivares
+### First Name: Jose
+### GitHub Username: COJose22
 
 ---
 #### General Workflow: 
